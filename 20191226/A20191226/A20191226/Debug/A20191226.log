@@ -1,0 +1,118 @@
+﻿  A20191226.c
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(11,26): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'node **'입니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'node **'입니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'node **'입니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(17,35): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char **'입니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(31,36): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(36,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'node *'입니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(37,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'node *'입니다.
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(43,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'node *'입니다.
+  C20191226.c
+  백준2444.c
+C:\SAHMYOOKUNI\DSC_C\20191226\A20191226\A20191226\A20191226.c(45,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(19,62): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(19,62): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(19,71): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(21,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(27,72): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(27,72): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(27,81): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cstdlib(29,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(17,76): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(17,76): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(17,85): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(23,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(29,62): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(29,62): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(29,71): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(31,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(37,62): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(37,62): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(37,71): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(39,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(45,62): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(45,62): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(45,71): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(47,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(53,61): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(53,61): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(53,70): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(55,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(61,87): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(61,87): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(61,96): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(63,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(69,61): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(69,61): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(69,70): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(71,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(77,61): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(77,61): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(77,70): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(79,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(85,61): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(85,61): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(85,70): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(87,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(93,61): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(93,61): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(93,70): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(95,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(101,62): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(101,62): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(101,71): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(103,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(109,77): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(109,77): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(109,86): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(111,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(117,77): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(117,77): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(117,86): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(119,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(125,78): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(125,78): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(125,87): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(127,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(133,76): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(133,76): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(133,85): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(135,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(141,67): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(141,67): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(141,76): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(143,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(149,60): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(149,60): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(149,69): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(151,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(157,62): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(157,62): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(157,71): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(159,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(165,61): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(165,61): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(165,70): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(167,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(173,62): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(173,62): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(173,71): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(175,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(181,66): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(181,66): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(181,75): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(183,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(189,89): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(189,89): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(189,98): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(191,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(197,74): error C2061: 구문 오류: 식별자 'noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(197,74): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(197,83): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(203,1): error C2059: 구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(209,69): error C2061: 구문 오류: 식별자 'noexcept'
+  연결리스트.c
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\cmath(209,69): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
